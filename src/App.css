@@ -1,0 +1,29 @@
+body {
+  background-color: whitesmoke;
+}
+
+.todo-item {
+  background-color: white;
+  margin: auto;
+  align-items: center;
+  width: 40em;
+  border: 1px solid #efefef;
+  height: 90vh;
+}
+
+.h3-todo {
+  text-align: center;
+  color: coral;
+}
+
+.items {
+  margin-left: 250px;
+}
+
+.checked {
+  text-decoration: line-through;
+}
+
+.Ibutton {
+  margin-right: 10%;
+}

@@ -36,7 +36,6 @@ const Todo = () => {
 
   const addItem = () => {
     setstate([...state, newItem]);
-    newItem.todoItem = "";
     console.log(newItem.todoItem + " " + newItem.id);
   };
 
